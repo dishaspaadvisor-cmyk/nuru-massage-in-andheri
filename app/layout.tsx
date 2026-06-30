@@ -56,7 +56,10 @@ export const metadata: Metadata = {
       "max-snippet": -1
     }
   },
-  category: "spa and wellness"
+  category: "spa and wellness",
+  verification: {
+    google: "WfYBwe7D5wP74QQPV0rczXUbcRmfyFdyLS4t97btye8"
+  }
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
