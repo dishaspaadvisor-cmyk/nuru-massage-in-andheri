@@ -1,0 +1,99 @@
+{
+  "hero": {
+    "eyebrow": "Sakinaka, Andheri Best, Premium Spa",
+    "title": "Best Spa in Sakinaka, Andheri for Body Massage, Relaxation & Wellness",
+    "description": "Book a clean, private and professional spa experience with trained therapists, calming rooms, strong hygiene standards and quick WhatsApp appointment support.",
+    "primaryCta": "Call For Booking",
+    "secondaryCta": "WhatsApp Now"
+  },
+  "trustBadges": [
+    "Private Rooms",
+    "Trained Staff",
+    "Hygienic Setup",
+    "Quick Booking",
+    "Prime Location"
+  ],
+  "services": [
+    {
+      "title": "Full Body Massage",
+      "slug": "full-body-massage",
+      "description": "A complete relaxation massage designed to reduce tiredness, improve comfort and give a Best, Premium Spa feeling.",
+      "keywords": ["full body massage Sakinaka, Andheri", "body massage near me", "relaxation massage"]
+    },
+    {
+      "title": "Deep Tissue Massage",
+      "slug": "deep-tissue-massage",
+      "description": "Focused pressure therapy for guests who want stronger massage work around back, shoulder and muscle stiffness.",
+      "keywords": ["deep tissue massage Sakinaka, Andheri", "back pain massage", "strong massage near me"]
+    },
+    {
+      "title": "Aroma Therapy",
+      "slug": "aroma-therapy",
+      "description": "A calming oil-based spa session with premium aroma blends for relaxation, freshness and peaceful recovery.",
+      "keywords": ["aroma therapy massage", "oil massage Sakinaka, Andheri", "aroma spa near me"]
+    },
+    {
+      "title": "Thai & Balinese Massage",
+      "slug": "thai-balinese-massage",
+      "description": "Popular spa styles for flexibility, stress relief and a luxury wellness experience in a private setup.",
+      "keywords": ["thai massage Sakinaka, Andheri", "balinese massage Sakinaka, Andheri", "Best, Premium Spa"]
+    },
+    {
+      "title": "Head, Neck & Foot Massage",
+      "slug": "head-foot-massage",
+      "description": "Short and effective massage options for office fatigue, travel tiredness and daily stress relief.",
+      "keywords": ["head massage Sakinaka, Andheri", "foot massage near me", "neck massage"]
+    },
+    {
+      "title": "Facial & Body Care",
+      "slug": "facial-body-care",
+      "description": "Spa add-ons for skin freshness, body polish and grooming-focused wellness appointments.",
+      "keywords": ["facial spa Sakinaka, Andheri", "body scrub spa", "skin care spa"]
+    }
+  ],
+  "sections": {
+    "whyTitle": "Why Clients Choose Us",
+    "whyText": "People searching for a spa in Sakinaka, Andheri want fast booking, a clean place, real service details and easy contact. This website is built around those actions with strong calls, location keywords and service-specific copy.",
+    "keywordTitle": "Popular Spa Searches We Cover",
+    "galleryTitle": "Clean Rooms, Calm Mood, Premium Feel",
+    "faqTitle": "Spa Booking Questions"
+  },
+  "benefits": [
+    "Direct call and WhatsApp booking from every important section",
+    "Location-focused content for Sakinaka, Andheri and nearby searches",
+    "Service pages and keyword blocks ready for SEO expansion",
+    "Fast Next.js pages with sitemap, robots and schema support"
+  ],
+  "faqs": [
+    {
+      "question": "How can I book a spa appointment?",
+      "answer": "Call or WhatsApp the number on this page and share your preferred time, service and location."
+    },
+    {
+      "question": "Do you offer full body massage in Sakinaka, Andheri?",
+      "answer": "Yes, full body massage, aroma therapy, deep tissue massage, head massage and foot massage options are listed on this website."
+    },
+    {
+      "question": "Is the spa setup private and hygienic?",
+      "answer": "The website highlights private rooms, trained staff and hygiene-focused service because those are important for local spa customers."
+    },
+    {
+      "question": "Can I change the website content later?",
+      "answer": "Yes, service text, contact details, image URLs and keyword lists are stored in separate JSON files."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rohit S.",
+      "text": "Quick booking, clean room and very relaxing massage experience."
+    },
+    {
+      "name": "Aman K.",
+      "text": "Good location and professional spa setup. WhatsApp response was fast."
+    },
+    {
+      "name": "Priya M.",
+      "text": "Calm interiors, polite staff and hygienic service. Recommended for relaxation."
+    }
+  ]
+}

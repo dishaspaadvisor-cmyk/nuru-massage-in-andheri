@@ -1,0 +1,38 @@
+{
+  "hero": {
+    "src": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1800&q=85",
+    "alt": "Luxury spa massage room with calm lighting"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Professional spa therapy setup"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600334129128-685c5582fd35?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Relaxing wellness massage service"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1596178065887-1198b6148b2b?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Spa oils and wellness treatment products"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Calm spa interior for body massage"
+    }
+  ],
+  "services": [
+    {
+      "src": "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?auto=format&fit=crop&w=900&q=85",
+      "alt": "Deep tissue massage therapy"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1519824145371-296894a0daa9?auto=format&fit=crop&w=900&q=85",
+      "alt": "Aroma spa relaxation treatment"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=900&q=85",
+      "alt": "Facial and skin care spa service"
+    }
+  ]
+}

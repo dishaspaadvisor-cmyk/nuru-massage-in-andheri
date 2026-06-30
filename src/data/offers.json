@@ -1,0 +1,74 @@
+[
+  {
+    "title": "First Visit Offer",
+    "price": "Flat 20% Off",
+    "duration": "60 Minutes",
+    "includes": [
+      "Full body massage",
+      "Private room",
+      "WhatsApp booking"
+    ],
+    "badge": "Popular",
+    "cta": "Book Now"
+  },
+  {
+    "title": "Full Body Massage Package",
+    "price": "Starting from INR 1499",
+    "duration": "60 Minutes",
+    "includes": [
+      "Full body massage",
+      "Oil therapy",
+      "Relaxation"
+    ],
+    "badge": "Best Value",
+    "cta": "Book Now"
+  },
+  {
+    "title": "Couple Spa Package",
+    "price": "Starting from INR 3499",
+    "duration": "90 Minutes",
+    "includes": [
+      "Couple room",
+      "Aroma therapy",
+      "Premium ambience"
+    ],
+    "badge": "Premium",
+    "cta": "Book Now"
+  },
+  {
+    "title": "Deep Tissue Massage Package",
+    "price": "Starting from INR 1999",
+    "duration": "75 Minutes",
+    "includes": [
+      "Firm pressure",
+      "Back focus",
+      "Muscle relaxation"
+    ],
+    "badge": "Recommended",
+    "cta": "Book Now"
+  },
+  {
+    "title": "Thai Massage Package",
+    "price": "Starting from INR 1999",
+    "duration": "75 Minutes",
+    "includes": [
+      "Thai massage",
+      "Stretching",
+      "Body refreshment"
+    ],
+    "badge": "Trending",
+    "cta": "Book Now"
+  },
+  {
+    "title": "Premium Wellness Package",
+    "price": "Starting from INR 4499",
+    "duration": "120 Minutes",
+    "includes": [
+      "Massage",
+      "Body scrub",
+      "Jacuzzi spa"
+    ],
+    "badge": "Luxury",
+    "cta": "Book Now"
+  }
+]

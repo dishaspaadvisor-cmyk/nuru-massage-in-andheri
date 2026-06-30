@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Rohit S.",
+    "location": "Sakinaka, Andheri",
+    "rating": 5,
+    "review": "One of the best spa in Sakinaka, Andheri. Clean room, quick booking and good full body massage experience.",
+    "service": "Full Body Massage",
+    "date": "2026-06-10"
+  },
+  {
+    "name": "Priya M.",
+    "location": "Sakinaka, Andheri",
+    "rating": 5,
+    "review": "Professional massage in Sakinaka, Andheri with premium ambience and hygienic private rooms.",
+    "service": "Aromatherapy Massage",
+    "date": "2026-06-12"
+  },
+  {
+    "name": "Aman K.",
+    "location": "Sakinaka, Andheri",
+    "rating": 5,
+    "review": "Very relaxing spa, fast WhatsApp response and transparent pricing.",
+    "service": "Deep Tissue Massage",
+    "date": "2026-06-14"
+  },
+  {
+    "name": "Neha R.",
+    "location": "Sakinaka, Andheri",
+    "rating": 5,
+    "review": "Clean and relaxing spa near me with a calm wellness setup.",
+    "service": "Foot Massage",
+    "date": "2026-06-18"
+  }
+]
