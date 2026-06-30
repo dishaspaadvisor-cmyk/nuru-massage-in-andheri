@@ -70,7 +70,7 @@ const business = {
   phone: "+91 90000 00000",
   whatsapp: "+919000000000",
   email: "",
-  website: "https://your-vercel-domain.vercel.app",
+  website: "https://nuru-massage-in-andheri.vercel.app/",
   workingHours: "Open Daily, 10:00 AM - 10:00 PM",
   announcement: "Flat 20% Off on First Spa Session",
   googleMapUrl: "https://www.google.com/maps/search/?api=1&query=Sakinaka, Andheri%20Maharashtra",
