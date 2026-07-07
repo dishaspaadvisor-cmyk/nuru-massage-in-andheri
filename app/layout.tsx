@@ -58,7 +58,7 @@ export const metadata: Metadata = {
   },
   category: "spa and wellness",
   verification: {
-    google: "WfYBwe7D5wP74QQPV0rczXUbcRmfyFdyLS4t97btye8"
+    google: "mp-lwIB2jjyuqluYkqCU3RkOoj3EeXGB9wqKqyUurKY"
   }
 };
 
@@ -73,3 +73,6 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     </html>
   );
 }
+
+
+{/* <meta name="google-site-verification" content="mp-lwIB2jjyuqluYkqCU3RkOoj3EeXGB9wqKqyUurKY" /> */}
