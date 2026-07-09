@@ -1,7 +1,7 @@
 [
   {
     "id": "full-body-massage",
-    "slug": "full-body-massage",
+    "slug": "full-body-massage-in-sakinaka-andheri",
     "name": "Full Body Massage",
     "shortTitle": "Full Body Massage",
     "seoTitle": "Full Body Massage in Sakinaka, Andheri | Premium Full Body Massage Near Me",
@@ -48,7 +48,7 @@
   },
   {
     "id": "thai-massage",
-    "slug": "thai-massage",
+    "slug": "thai-massage-in-sakinaka-andheri",
     "name": "Thai Massage",
     "shortTitle": "Thai Massage",
     "seoTitle": "Thai Massage in Sakinaka, Andheri | Premium Thai Massage Near Me",
@@ -94,8 +94,1042 @@
     ]
   },
   {
+    "id": "body-massage",
+    "slug": "body-massage-in-sakinaka-andheri",
+    "name": "Body Massage",
+    "shortTitle": "Body Massage",
+    "seoTitle": "Body Massage in Sakinaka, Andheri | Premium Body Massage Near Me",
+    "seoDescription": "Book professional body massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "body massage in Sakinaka, Andheri",
+      "body massage near me",
+      "best body massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "A relaxing body massage for stress relief, body comfort and freshness.",
+    "longDescription": "Body Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "60 Minutes",
+    "price": "Starting from INR 1499",
+    "image": "/spa-images/spa-gallery-001.jpg",
+    "alt": "body massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Body Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers body massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Body Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
     "id": "deep-tissue-massage",
-    "slug": "deep-tissue-massage",
+    "slug": "deep-tissue-massage-in-sakinaka-andheri",
+    "name": "Deep Tissue Massage",
+    "shortTitle": "Deep Tissue Massage",
+    "seoTitle": "Deep Tissue Massage in Sakinaka, Andheri | Premium Deep Tissue Massage Near Me",
+    "seoDescription": "Book professional deep tissue massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "deep tissue massage in Sakinaka, Andheri",
+      "deep tissue massage near me",
+      "best deep tissue massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Firm pressure massage for back, shoulder and muscle stiffness.",
+    "longDescription": "Deep Tissue Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "90 Minutes",
+    "price": "Starting from INR 2499",
+    "image": "/spa-images/spa-gallery-002.jpg",
+    "alt": "deep tissue massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Deep Tissue Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers deep tissue massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Deep Tissue Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "full-body-massage",
+    "slug": "full-body-massage-in-sakinaka-andheri",
+    "name": "Full Body Massage",
+    "shortTitle": "Full Body Massage",
+    "seoTitle": "Full Body Massage in Sakinaka, Andheri | Premium Full Body Massage Near Me",
+    "seoDescription": "Book professional full body massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "full body massage in Sakinaka, Andheri",
+      "full body massage near me",
+      "best full body massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "A complete relaxation massage for body refreshment, stress relief and deep comfort.",
+    "longDescription": "Full Body Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "60 Minutes",
+    "price": "Starting from INR 1499",
+    "image": "/spa-images/spa-gallery-003.jpg",
+    "alt": "full body massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Full Body Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers full body massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Full Body Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "four-hand-massage",
+    "slug": "four-hand-massage-in-sakinaka-andheri",
+    "name": "Four Hand Massage",
+    "shortTitle": "Four Hand Massage",
+    "seoTitle": "Four Hand Massage in Sakinaka, Andheri | Premium Four Hand Massage Near Me",
+    "seoDescription": "Book professional four hand massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "four hand massage in Sakinaka, Andheri",
+      "four hand massage near me",
+      "best four hand massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "A premium synchronized massage experience for deep relaxation and comfort.",
+    "longDescription": "Four Hand Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "75 Minutes",
+    "price": "Starting from INR 1999",
+    "image": "/spa-images/spa-gallery-004.jpg",
+    "alt": "four hand massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Four Hand Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers four hand massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Four Hand Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "sandwich-massage",
+    "slug": "sandwich-massage-in-sakinaka-andheri",
+    "name": "Sandwich Massage",
+    "shortTitle": "Sandwich Massage",
+    "seoTitle": "Sandwich Massage in Sakinaka, Andheri | Premium Sandwich Massage Near Me",
+    "seoDescription": "Book professional sandwich massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "sandwich massage in Sakinaka, Andheri",
+      "sandwich massage near me",
+      "best sandwich massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Premium massage therapy for relaxation, comfort and body refreshment.",
+    "longDescription": "Sandwich Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "90 Minutes",
+    "price": "Starting from INR 2499",
+    "image": "/spa-images/spa-gallery-005.jpg",
+    "alt": "sandwich massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Sandwich Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers sandwich massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Sandwich Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "couples-massage",
+    "slug": "couples-massage-in-sakinaka-andheri",
+    "name": "Couples Massage",
+    "shortTitle": "Couples Massage",
+    "seoTitle": "Couples Massage in Sakinaka, Andheri | Premium Couples Massage Near Me",
+    "seoDescription": "Book professional couples massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "couples massage in Sakinaka, Andheri",
+      "couples massage near me",
+      "best couples massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Private wellness session for two with a premium spa ambience.",
+    "longDescription": "Couples Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "60 Minutes",
+    "price": "Starting from INR 1499",
+    "image": "/spa-images/spa-gallery-006.jpg",
+    "alt": "couples massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Couples Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers couples massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Couples Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "nuru-massage",
+    "slug": "nuru-massage-in-sakinaka-andheri",
+    "name": "Nuru Massage",
+    "shortTitle": "Nuru Massage",
+    "seoTitle": "Nuru Massage in Sakinaka, Andheri | Premium Nuru Massage Near Me",
+    "seoDescription": "Book professional nuru massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "nuru massage in Sakinaka, Andheri",
+      "nuru massage near me",
+      "best nuru massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Premium relaxation massage experience in a clean and private spa setup.",
+    "longDescription": "Nuru Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "75 Minutes",
+    "price": "Starting from INR 1999",
+    "image": "/spa-images/spa-gallery-007.jpg",
+    "alt": "nuru massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Nuru Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers nuru massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Nuru Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "thai-massage",
+    "slug": "thai-massage-in-sakinaka-andheri",
+    "name": "Thai Massage",
+    "shortTitle": "Thai Massage",
+    "seoTitle": "Thai Massage in Sakinaka, Andheri | Premium Thai Massage Near Me",
+    "seoDescription": "Book professional thai massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "thai massage in Sakinaka, Andheri",
+      "thai massage near me",
+      "best thai massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Stretch-focused massage therapy for flexibility, body balance and renewed energy.",
+    "longDescription": "Thai Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "90 Minutes",
+    "price": "Starting from INR 2499",
+    "image": "/spa-images/spa-gallery-008.jpg",
+    "alt": "thai massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Thai Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers thai massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Thai Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "body-to-body-massage",
+    "slug": "body-to-body-massage-in-sakinaka-andheri",
+    "name": "Body To Body Massage",
+    "shortTitle": "Body To Body Massage",
+    "seoTitle": "Body To Body Massage in Sakinaka, Andheri | Premium Body To Body Massage Near Me",
+    "seoDescription": "Book professional body to body massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "body to body massage in Sakinaka, Andheri",
+      "body to body massage near me",
+      "best body to body massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Premium relaxation therapy for comfort, freshness and stress relief.",
+    "longDescription": "Body To Body Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "60 Minutes",
+    "price": "Starting from INR 1499",
+    "image": "/spa-images/spa-gallery-009.jpg",
+    "alt": "body to body massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Body To Body Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers body to body massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Body To Body Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "balinese-massage",
+    "slug": "balinese-massag-in-sakinaka-andherie",
+    "name": "Balinese Massage",
+    "shortTitle": "Balinese Massage",
+    "seoTitle": "Balinese Massage in Sakinaka, Andheri | Premium Balinese Massage Near Me",
+    "seoDescription": "Book professional balinese massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "balinese massage in Sakinaka, Andheri",
+      "balinese massage near me",
+      "best balinese massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Premium massage technique combining gentle stretches and soothing pressure.",
+    "longDescription": "Balinese Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "75 Minutes",
+    "price": "Starting from INR 1999",
+    "image": "/spa-images/spa-gallery-010.jpg",
+    "alt": "balinese massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Balinese Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers balinese massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Balinese Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "aromatherapy-massage",
+    "slug": "aromatherapy-massage-in-sakinaka-andheri",
+    "name": "Aromatherapy Massage",
+    "shortTitle": "Aromatherapy Massage",
+    "seoTitle": "Aromatherapy Massage in Sakinaka, Andheri | Premium Aromatherapy Massage Near Me",
+    "seoDescription": "Book professional aromatherapy massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "aromatherapy massage in Sakinaka, Andheri",
+      "aromatherapy massage near me",
+      "best aromatherapy massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Oil-based wellness massage with calming aroma blends.",
+    "longDescription": "Aromatherapy Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "90 Minutes",
+    "price": "Starting from INR 2499",
+    "image": "/spa-images/spa-gallery-011.jpg",
+    "alt": "aromatherapy massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Aromatherapy Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers aromatherapy massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Aromatherapy Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "hot-stone-massage",
+    "slug": "hot-stone-massage-in-sakinaka-andheri",
+    "name": "Hot Stone Massage",
+    "shortTitle": "Hot Stone Massage",
+    "seoTitle": "Hot Stone Massage in Sakinaka, Andheri | Premium Hot Stone Massage Near Me",
+    "seoDescription": "Book professional hot stone massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "hot stone massage in Sakinaka, Andheri",
+      "hot stone massage near me",
+      "best hot stone massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Warm stone therapy for deep relaxation and muscle comfort.",
+    "longDescription": "Hot Stone Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "60 Minutes",
+    "price": "Starting from INR 1499",
+    "image": "/spa-images/spa-gallery-012.jpg",
+    "alt": "hot stone massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Hot Stone Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers hot stone massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Hot Stone Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "swedish-massage",
+    "slug": "swedish-massage-in-sakinaka-andheri",
+    "name": "Swedish Massage",
+    "shortTitle": "Swedish Massage",
+    "seoTitle": "Swedish Massage in Sakinaka, Andheri | Premium Swedish Massage Near Me",
+    "seoDescription": "Book professional swedish massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "swedish massage in Sakinaka, Andheri",
+      "swedish massage near me",
+      "best swedish massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Smooth, calming massage therapy for relaxation and better sleep.",
+    "longDescription": "Swedish Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "75 Minutes",
+    "price": "Starting from INR 1999",
+    "image": "/spa-images/spa-gallery-013.jpg",
+    "alt": "swedish massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Swedish Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers swedish massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Swedish Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "chocolate-massage",
+    "slug": "chocolate-massage-in-sakinaka-andheri",
+    "name": "Chocolate Massage",
+    "shortTitle": "Chocolate Massage",
+    "seoTitle": "Chocolate Massage in Sakinaka, Andheri | Premium Chocolate Massage Near Me",
+    "seoDescription": "Book professional chocolate massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "chocolate massage in Sakinaka, Andheri",
+      "chocolate massage near me",
+      "best chocolate massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "A soothing chocolate-based spa experience for relaxation and skin freshness.",
+    "longDescription": "Chocolate Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "90 Minutes",
+    "price": "Starting from INR 2499",
+    "image": "/spa-images/spa-gallery-014.jpg",
+    "alt": "chocolate massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Chocolate Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers chocolate massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Chocolate Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "lomi-lomi-massage",
+    "slug": "lomi-lomi-massage-in-sakinaka-andheri",
+    "name": "Lomi Lomi Massage",
+    "shortTitle": "Lomi Lomi Massage",
+    "seoTitle": "Lomi Lomi Massage in Sakinaka, Andheri | Premium Lomi Lomi Massage Near Me",
+    "seoDescription": "Book professional lomi lomi massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "lomi lomi massage in Sakinaka, Andheri",
+      "lomi lomi massage near me",
+      "best lomi lomi massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Flowing massage strokes for calm, rhythm and deep relaxation.",
+    "longDescription": "Lomi Lomi Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "60 Minutes",
+    "price": "Starting from INR 1499",
+    "image": "/spa-images/spa-gallery-015.jpg",
+    "alt": "lomi lomi massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Lomi Lomi Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers lomi lomi massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Lomi Lomi Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "oil-massage",
+    "slug": "oil-massage-in-sakinaka-andheri",
+    "name": "Oil Massage",
+    "shortTitle": "Oil Massage",
+    "seoTitle": "Oil Massage in Sakinaka, Andheri | Premium Oil Massage Near Me",
+    "seoDescription": "Book professional oil massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "oil massage in Sakinaka, Andheri",
+      "oil massage near me",
+      "best oil massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Relaxing oil massage for smooth movement, comfort and freshness.",
+    "longDescription": "Oil Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "75 Minutes",
+    "price": "Starting from INR 1999",
+    "image": "/spa-images/spa-gallery-016.jpg",
+    "alt": "oil massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Oil Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers oil massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Oil Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "jacuzzi-milk-bath",
+    "slug": "jacuzzi-milk-bath-in-sakinaka-andheri",
+    "name": "Jacuzzi Milk Bath",
+    "shortTitle": "Jacuzzi Milk Bath",
+    "seoTitle": "Jacuzzi Milk Bath in Sakinaka, Andheri | Premium Jacuzzi Milk Bath Near Me",
+    "seoDescription": "Book professional jacuzzi milk bath in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "jacuzzi milk bath in Sakinaka, Andheri",
+      "jacuzzi milk bath near me",
+      "best jacuzzi milk bath Sakinaka, Andheri",
+      "professional spa therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Premium jacuzzi bath experience for relaxation, freshness and luxury comfort.",
+    "longDescription": "Jacuzzi Milk Bath at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, jacuzzi spa near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "90 Minutes",
+    "price": "Starting from INR 2499",
+    "image": "/spa-images/spa-gallery-017.jpg",
+    "alt": "jacuzzi milk bath spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Jacuzzi Milk Bath in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers jacuzzi milk bath in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Jacuzzi Milk Bath?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "jacuzzi-honey-bath",
+    "slug": "jacuzzi-honey-bath-in-sakinaka-andheri",
+    "name": "Jacuzzi Honey Bath",
+    "shortTitle": "Jacuzzi Honey Bath",
+    "seoTitle": "Jacuzzi Honey Bath in Sakinaka, Andheri | Premium Jacuzzi Honey Bath Near Me",
+    "seoDescription": "Book professional jacuzzi honey bath in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "jacuzzi honey bath in Sakinaka, Andheri",
+      "jacuzzi honey bath near me",
+      "best jacuzzi honey bath Sakinaka, Andheri",
+      "professional spa therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "A premium jacuzzi bath experience for relaxation and body freshness.",
+    "longDescription": "Jacuzzi Honey Bath at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, jacuzzi spa near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "60 Minutes",
+    "price": "Starting from INR 1499",
+    "image": "/spa-images/spa-gallery-018.jpg",
+    "alt": "jacuzzi honey bath spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Jacuzzi Honey Bath in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers jacuzzi honey bath in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Jacuzzi Honey Bath?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "ayurvedic-massage",
+    "slug": "ayurvedic-massage-in-sakinaka-andheri",
+    "name": "Ayurvedic Massage",
+    "shortTitle": "Ayurvedic Massage",
+    "seoTitle": "Ayurvedic Massage in Sakinaka, Andheri | Premium Ayurvedic Massage Near Me",
+    "seoDescription": "Book professional ayurvedic massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "ayurvedic massage in Sakinaka, Andheri",
+      "ayurvedic massage near me",
+      "best ayurvedic massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Wellness-inspired oil massage for balance and body refreshment.",
+    "longDescription": "Ayurvedic Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "75 Minutes",
+    "price": "Starting from INR 1999",
+    "image": "/spa-images/spa-gallery-019.jpg",
+    "alt": "ayurvedic massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Ayurvedic Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers ayurvedic massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Ayurvedic Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "french-aroma-massage",
+    "slug": "french-aroma-massage-in-sakinaka-andheri",
+    "name": "French Aroma Massage",
+    "shortTitle": "French Aroma Massage",
+    "seoTitle": "French Aroma Massage in Sakinaka, Andheri | Premium French Aroma Massage Near Me",
+    "seoDescription": "Book professional french aroma massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "french aroma massage in Sakinaka, Andheri",
+      "french aroma massage near me",
+      "best french aroma massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Aroma-based premium massage for calmness, freshness and deep relaxation.",
+    "longDescription": "French Aroma Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "90 Minutes",
+    "price": "Starting from INR 2499",
+    "image": "/spa-images/spa-gallery-020.jpg",
+    "alt": "french aroma massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer French Aroma Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers french aroma massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book French Aroma Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "sports-massage",
+    "slug": "sports-massage-in-sakinaka-andheri",
+    "name": "Sports Massage",
+    "shortTitle": "Sports Massage",
+    "seoTitle": "Sports Massage in Sakinaka, Andheri | Premium Sports Massage Near Me",
+    "seoDescription": "Book professional sports massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "sports massage in Sakinaka, Andheri",
+      "sports massage near me",
+      "best sports massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Focused massage therapy for active bodies, stiffness and muscle recovery comfort.",
+    "longDescription": "Sports Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "60 Minutes",
+    "price": "Starting from INR 1499",
+    "image": "/spa-images/spa-gallery-021.jpg",
+    "alt": "sports massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Sports Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers sports massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Sports Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "potli-massage",
+    "slug": "potli-massage-in-sakinaka-andheri",
+    "name": "Potli Massage",
+    "shortTitle": "Potli Massage",
+    "seoTitle": "Potli Massage in Sakinaka, Andheri | Premium Potli Massage Near Me",
+    "seoDescription": "Book professional potli massage in Sakinaka, Andheri at Unicorn Spa. Clean private rooms, quick WhatsApp booking and premium spa ambience.",
+    "keywords": [
+      "potli massage in Sakinaka, Andheri",
+      "potli massage near me",
+      "best potli massage Sakinaka, Andheri",
+      "professional massage therapy in Sakinaka, Andheri"
+    ],
+    "shortDescription": "Traditional warm compress massage for body comfort and relaxation.",
+    "longDescription": "Potli Massage at Unicorn Spa is designed for guests searching for a professional spa in Sakinaka, Andheri, massage near me, body massage in Sakinaka, Andheri, and premium wellness therapy in a clean and relaxing environment.",
+    "benefits": [
+      "Stress relief",
+      "Muscle relaxation",
+      "Better sleep",
+      "Body refreshment"
+    ],
+    "process": [
+      "Quick booking confirmation",
+      "Private room preparation",
+      "Professional wellness session",
+      "Post-session refreshment"
+    ],
+    "whoShouldChoose": [
+      "Guests feeling tired or stressed",
+      "People searching for a trusted spa near me",
+      "Anyone who wants a premium wellness routine"
+    ],
+    "duration": "75 Minutes",
+    "price": "Starting from INR 1999",
+    "image": "/spa-images/spa-gallery-022.jpg",
+    "alt": "potli massage spa setup in Sakinaka, Andheri",
+    "faqs": [
+      {
+        "question": "Do you offer Potli Massage in Sakinaka, Andheri?",
+        "answer": "Yes, Unicorn Spa offers potli massage in Sakinaka, Andheri with professional wellness-focused service."
+      },
+      {
+        "question": "How can I book Potli Massage?",
+        "answer": "You can call directly or book on WhatsApp for today's available appointment slots."
+      }
+    ]
+  },
+  {
+    "id": "deep-tissue-massage",
+    "slug": "deep-tissue-massage-in-sakinaka-andheri",
     "name": "Deep Tissue Massage",
     "shortTitle": "Deep Tissue Massage",
     "seoTitle": "Deep Tissue Massage in Sakinaka, Andheri | Premium Deep Tissue Massage Near Me",
@@ -142,7 +1176,7 @@
   },
   {
     "id": "swedish-massage",
-    "slug": "swedish-massage",
+    "slug": "swedish-massage-in-sakinaka-andheri",
     "name": "Swedish Massage",
     "shortTitle": "Swedish Massage",
     "seoTitle": "Swedish Massage in Sakinaka, Andheri | Premium Swedish Massage Near Me",
@@ -189,7 +1223,7 @@
   },
   {
     "id": "balinese-massage",
-    "slug": "balinese-massage",
+    "slug": "balinese-massage-in-sakinaka-andheri",
     "name": "Balinese Massage",
     "shortTitle": "Balinese Massage",
     "seoTitle": "Balinese Massage in Sakinaka, Andheri | Premium Balinese Massage Near Me",
@@ -236,7 +1270,7 @@
   },
   {
     "id": "aromatherapy-massage",
-    "slug": "aromatherapy-massage",
+    "slug": "aromatherapy-massage-in-sakinaka-andheri",
     "name": "Aromatherapy Massage",
     "shortTitle": "Aromatherapy Massage",
     "seoTitle": "Aromatherapy Massage in Sakinaka, Andheri | Premium Aromatherapy Massage Near Me",
@@ -283,7 +1317,7 @@
   },
   {
     "id": "hot-stone-massage",
-    "slug": "hot-stone-massage",
+    "slug": "hot-stone-massage-in-sakinaka-andheri",
     "name": "Hot Stone Massage",
     "shortTitle": "Hot Stone Massage",
     "seoTitle": "Hot Stone Massage in Sakinaka, Andheri | Premium Hot Stone Massage Near Me",
@@ -330,7 +1364,7 @@
   },
   {
     "id": "foot-massage",
-    "slug": "foot-massage",
+    "slug": "foot-massage-in-sakinaka-andheri",
     "name": "Foot Massage",
     "shortTitle": "Foot Massage",
     "seoTitle": "Foot Massage in Sakinaka, Andheri | Premium Foot Massage Near Me",
@@ -377,7 +1411,7 @@
   },
   {
     "id": "oil-massage",
-    "slug": "oil-massage",
+    "slug": "oil-massage-in-sakinaka-andheri",
     "name": "Oil Massage",
     "shortTitle": "Oil Massage",
     "seoTitle": "Oil Massage in Sakinaka, Andheri | Premium Oil Massage Near Me",
@@ -424,7 +1458,7 @@
   },
   {
     "id": "couple-spa",
-    "slug": "couple-spa",
+    "slug": "couple-spa-in-sakinaka-andheri",
     "name": "Couple Spa",
     "shortTitle": "Couple Spa",
     "seoTitle": "Couple Spa in Sakinaka, Andheri | Premium Couple Spa Near Me",
@@ -471,7 +1505,7 @@
   },
   {
     "id": "body-scrub",
-    "slug": "body-scrub",
+    "slug": "body-scrub-in-sakinaka-andheri",
     "name": "Body Scrub",
     "shortTitle": "Body Scrub",
     "seoTitle": "Body Scrub in Sakinaka, Andheri | Premium Body Scrub Near Me",
@@ -518,7 +1552,7 @@
   },
   {
     "id": "jacuzzi-spa",
-    "slug": "jacuzzi-spa",
+    "slug": "jacuzzi-spa-in-sakinaka-andheri",
     "name": "Jacuzzi Spa",
     "shortTitle": "Jacuzzi Spa",
     "seoTitle": "Jacuzzi Spa in Sakinaka, Andheri | Premium Jacuzzi Spa Near Me",
@@ -565,7 +1599,7 @@
   },
   {
     "id": "potli-massage",
-    "slug": "potli-massage",
+    "slug": "potli-massage-in-sakinaka-andheri",
     "name": "Potli Massage",
     "shortTitle": "Potli Massage",
     "seoTitle": "Potli Massage in Sakinaka, Andheri | Premium Potli Massage Near Me",
@@ -612,7 +1646,7 @@
   },
   {
     "id": "lomi-lomi-massage",
-    "slug": "lomi-lomi-massage",
+    "slug": "lomi-lomi-massage-in-sakinaka-andheri",
     "name": "Lomi Lomi Massage",
     "shortTitle": "Lomi Lomi Massage",
     "seoTitle": "Lomi Lomi Massage in Sakinaka, Andheri | Premium Lomi Lomi Massage Near Me",
@@ -659,7 +1693,7 @@
   },
   {
     "id": "ayurvedic-massage",
-    "slug": "ayurvedic-massage",
+    "slug": "ayurvedic-massage-in-sakinaka-andheri",
     "name": "Ayurvedic Massage",
     "shortTitle": "Ayurvedic Massage",
     "seoTitle": "Ayurvedic Massage in Sakinaka, Andheri | Premium Ayurvedic Massage Near Me",
@@ -706,7 +1740,7 @@
   },
   {
     "id": "head-massage",
-    "slug": "head-massage",
+    "slug": "head-massage-in-sakinaka-andheri",
     "name": "Head Massage",
     "shortTitle": "Head Massage",
     "seoTitle": "Head Massage in Sakinaka, Andheri | Premium Head Massage Near Me",
@@ -753,7 +1787,7 @@
   },
   {
     "id": "back-massage",
-    "slug": "back-massage",
+    "slug": "back-massage-in-sakinaka-andheri",
     "name": "Back Massage",
     "shortTitle": "Back Massage",
     "seoTitle": "Back Massage in Sakinaka, Andheri | Premium Back Massage Near Me",
@@ -800,7 +1834,7 @@
   },
   {
     "id": "body-massage-spa-package",
-    "slug": "body-massage-spa-package",
+    "slug": "body-massage-spa-package-in-sakinaka-andheri",
     "name": "Body Massage Spa Package",
     "shortTitle": "Body Massage Spa Package",
     "seoTitle": "Body Massage Spa Package in Sakinaka, Andheri | Premium Body Massage Spa Package Near Me",
