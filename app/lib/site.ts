@@ -9,7 +9,7 @@ import services from "@/src/data/services.json";
 import testimonials from "@/src/data/testimonials.json";
 
 export const siteUrl = (
-  process.env.NEXT_PUBLIC_SITE_URL || business.website || "https://best-spa.in"
+  process.env.NEXT_PUBLIC_SITE_URL || business.website || "https://nuru-massage.best-spa.in"
 ).replace(/\/$/, "");
 
 export const site = {

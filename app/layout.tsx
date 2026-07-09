@@ -21,6 +21,12 @@ export const metadata: Metadata = {
   },
   description,
   keywords: allKeywords,
+  // Added the icons field here for the favicon
+  icons: {
+    icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDInjt7CTsJMVCAaioTNW5lEX6O1i2_JAW9LZKAGjyQfl5Vd2ctZ0Hbz_U&s=10",
+    shortcut: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDInjt7CTsJMVCAaioTNW5lEX6O1i2_JAW9LZKAGjyQfl5Vd2ctZ0Hbz_U&s=10",
+    apple: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDInjt7CTsJMVCAaioTNW5lEX6O1i2_JAW9LZKAGjyQfl5Vd2ctZ0Hbz_U&s=10",
+  },
   alternates: {
     canonical: "/"
   },
@@ -73,6 +79,3 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     </html>
   );
 }
-
-
- 
