@@ -64,7 +64,7 @@ export const metadata: Metadata = {
   },
   category: "spa and wellness",
   verification: {
-    google: "16qHosgE0uinOyDGN6K3OazocJBRfsYNUncOP_ur3wo"
+    google: "QFWiT_B72cQuZh6SDrcTdoQt-4V3ClYST5mIub8XlII"
   }
 };
 
